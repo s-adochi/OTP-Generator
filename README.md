@@ -1,4 +1,4 @@
-# OTP Generator
+#  OTP Generator
 
 This is a simple JavaScript application that generates a 6-digit one-time password (OTP) for users. The OTP is generated using random characters from the numbers 0-9.
 
@@ -15,7 +15,7 @@ This is a simple JavaScript application that generates a 6-digit one-time passwo
 
 ## Author
 
-- [Silvanus Adochi](https://github.com/s-adochi)
+- [Your Name](https://github.com/s-adochi)
 
 ## License
 
